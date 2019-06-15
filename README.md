@@ -1,11 +1,11 @@
 # Laccidon-Vue-project
 赖熙敦个人vue项目：乱堆的电商app
 
-#项目演示
+# 项目演示
 [点我进入](http://139.196.121.18:80)
 
-#完成了哪些功能，用了哪些技术
--用了vueRouter vueX elementUI miniUI crypto加密 vue-lazyload sass 后端用node+express+mongoDB（基本也是拷的老谢配好的）
+# 完成了哪些功能，用了哪些技术
+- 用了vueRouter vueX elementUI miniUI crypto加密 vue-lazyload sass 后端用node+express+mongoDB（基本也是拷的老谢配好的）
 
 主页实现了（主页没啥功能，就一轮播图，其他都是没用的玩意）
 
