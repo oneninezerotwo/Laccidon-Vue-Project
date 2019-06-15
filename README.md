@@ -5,7 +5,7 @@
 [点我进入](http://139.196.121.18:80)
 
 #完成了哪些功能，用了哪些技术
--用了vueRouter vueX elementUI miniUI crypto加密 vue-lazyload  后端用node和mongoDB（感谢1901罗伟同学的指导，基本也是拷的老谢配好的）
+-用了vueRouter vueX elementUI miniUI crypto加密 vue-lazyload sass 后端用node+express+mongoDB（基本也是拷的老谢配好的）
 
 主页实现了（主页没啥功能，就一轮播图，其他都是没用的玩意）
 
@@ -19,9 +19,9 @@
 
 登录注册（这里做了crypto加密传数据给后端  后端还做了md5加密存进数据库）
 
-我的页面（乱七八糟搭的页面，有做登录状态判断切换渲染）
+我的页面（乱七八糟搭的页面，也没啥功能，有做登录状态判断切换渲染）
 
-然后项目打包到服务器上线了
+然后项目还打包到服务器上线了
 
 
 
