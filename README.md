@@ -5,7 +5,7 @@
 [点我进入](http://139.196.121.18:80)
 
 # 完成了哪些功能，用了哪些技术
-- 用了vueRouter vueX elementUI miniUI crypto加密 vue-lazyload sass 后端用node+express+mongoDB（基本也是拷的老谢配好的）
+- 用了vueRouter vueX elementUI miniUI crypto加密 vue-lazyload sass 后端用node+express+mongoDB
 
 - 主页实现
 （主页没啥功能，就一轮播图，其他都是没用的玩意）
